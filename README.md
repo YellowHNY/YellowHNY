@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yellow
-- 👀 I’m interested in Music, Anime/Manga, DJing
+- 👀 I’m interested in Web Development, Music, Anime/Manga, DJing
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 
 <!---
